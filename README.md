@@ -1,5 +1,5 @@
 # Weather APP
-A Simple Weather App using Python and Openweatherapi
+A Simple Weather App using Python and Openweatherapi.
 
 # Prerequisite 
 - Python >= 3.12.*
